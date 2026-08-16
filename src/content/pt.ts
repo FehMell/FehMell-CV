@@ -107,7 +107,7 @@ export const pt: CvContent = {
     },
   },
   contactLinks: [
-    { label: 'WhatsApp', href: 'https://wa.me/5513991745598', icon: 'whatsapp' },
+    { label: 'WhatsApp', href: 'https://wa.me/5513988658865', icon: 'whatsapp' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/fernanda-mell/', icon: 'linkedin' },
     { label: 'GitHub', href: 'https://github.com/FehMell', icon: 'github' },
     { label: 'E-mail', href: 'mailto:mell39654@gmail.com', icon: 'email' },
